@@ -1,0 +1,13 @@
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\bin\Debug\netcoreapp3.1\ThreadAndTaskTest.exe
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\bin\Debug\netcoreapp3.1\ThreadAndTaskTest.deps.json
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\bin\Debug\netcoreapp3.1\ThreadAndTaskTest.runtimeconfig.json
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\bin\Debug\netcoreapp3.1\ThreadAndTaskTest.runtimeconfig.dev.json
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\bin\Debug\netcoreapp3.1\ThreadAndTaskTest.dll
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\bin\Debug\netcoreapp3.1\ThreadAndTaskTest.pdb
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\obj\Debug\netcoreapp3.1\ThreadAndTaskTest.csprojAssemblyReference.cache
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\obj\Debug\netcoreapp3.1\ThreadAndTaskTest.AssemblyInfoInputs.cache
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\obj\Debug\netcoreapp3.1\ThreadAndTaskTest.AssemblyInfo.cs
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\obj\Debug\netcoreapp3.1\ThreadAndTaskTest.csproj.CoreCompileInputs.cache
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\obj\Debug\netcoreapp3.1\ThreadAndTaskTest.dll
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\obj\Debug\netcoreapp3.1\ThreadAndTaskTest.pdb
+C:\Projetos\Lab\ThreadAndTaskTest\ThreadAndTaskTest\obj\Debug\netcoreapp3.1\ThreadAndTaskTest.genruntimeconfig.cache
